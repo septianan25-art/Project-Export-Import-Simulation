@@ -1,0 +1,6 @@
+{
+  "name": "Global Trade Mission",
+  "description": "An interactive Grade 8 economics game exploring international trade, exports, imports, price negotiation, trade balance, and global economic problem-solving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
